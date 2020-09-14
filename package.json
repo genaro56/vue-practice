@@ -1,5 +1,5 @@
 {
-  "name": "vue-practice2",
+  "name": "vue-practice",
   "version": "1.0.0",
   "description": "Desarrollo en vue para el laboratorio de web",
   "author": "genaromartinez <genaro.mtz1998@gmail.com>",
@@ -11,8 +11,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "vue": "^2.5.2",
-    "vue-router": "^3.4.3"
+    "vue": "^2.5.2"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
